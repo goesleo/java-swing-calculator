@@ -35,4 +35,5 @@ Abra o projeto na sua IDE favorita e execute a classe `Main`.
 
 ## Autor
 
-Leleco
+Leonardo Goes
+
